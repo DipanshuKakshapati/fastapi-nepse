@@ -1,0 +1,12 @@
+numpy>=1.23.1
+pandas>=1.4.3
+fastapi>=0.82.0
+sqlalchemy>=1.4.40
+uvicorn>=0.18.2
+pydantic>=1.10.2
+python-dotenv>=0.21.0
+selenium>=4.5.0
+lxml>=4.9.1
+alembic>=1.8.1
+pymysql==1.1.1  # Adjusted to the latest available version
+psycopg2-binary>=2.9.9
